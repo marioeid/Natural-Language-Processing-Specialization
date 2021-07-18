@@ -7,7 +7,6 @@ https://coursera.org/share/c1800944e1143a604590783f210a1a31
 ## Table of contents
 
 - [Natural Language Processing with Classification and Vector Spaces](#natural-language-processing-with-classification-and-vector-spaces)
-- [My Certificate](#my-certificate)
   - [Table of contents](#table-of-contents)
   - [Course summary](#course-summary)
   - [Logistic regression](#logistic-regression)
